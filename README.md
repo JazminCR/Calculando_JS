@@ -15,7 +15,7 @@ Calculando_JS es un sitio web que ofrece una colección de calculadoras en líne
 
 ## Cómo Usar
 
-1. Visita [Calculando_JS](https://jazmincaruso.github.io/Calculando_JS/).
+1. Visita [Calculando_JS](https://jazmincr.github.io/Calculando_JS/).
 
 2. Selecciona la calculadora que desees utilizar desde el menú principal.
 
@@ -28,12 +28,3 @@ Calculando_JS es un sitio web que ofrece una colección de calculadoras en líne
 - HTML5
 - CSS3
 - JavaScript
-
-## Autora
-
-- **Jazmín Caruso**
-  - GitHub: [jazmincaruso](https://github.com/jazmincaruso)
-
-## Contribuir
-
-Si deseas contribuir a este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción. ¡Estamos abiertos a mejoras y sugerencias!
